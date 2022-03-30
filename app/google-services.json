@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265002550914",
+    "project_id": "contoh-aplikasi-login",
+    "storage_bucket": "contoh-aplikasi-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265002550914:android:13fe28681016e010f0d69b",
+        "android_client_info": {
+          "package_name": "muflihun.naim.myfirstloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265002550914-npjlla53uc6gbivlm6u44uvkgai0o0um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIIKgTvZALwOit2qURLCIw81rlIio3aGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265002550914-npjlla53uc6gbivlm6u44uvkgai0o0um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
